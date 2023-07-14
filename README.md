@@ -8,14 +8,14 @@ This repository contains code for an HTML practice project. It consists of a sta
 #### Demo: https://simple-html-web.vercel.app/?vercelToolbarCode=mbxAJK5N5NWx96h
 
 
-### Table of Contents
+## Table of Contents
 
 - [Description](#description)
 - [Sections](#sections)
 - [Installation](#installation)
 - [Usage](#usage)
 
-### Description
+## Description
 
 The HTML practice project is designed to help developers learn and practice HTML by building a static webpage. It includes the following features:
 
@@ -24,7 +24,7 @@ The HTML practice project is designed to help developers learn and practice HTML
 - Use of external CSS and font libraries.
 - Responsive design with media queries.
 
-### Sections
+## Sections
 
 The project is divided into the following sections:
 
@@ -46,7 +46,7 @@ The project is divided into the following sections:
 6. Section 6: Footer
    - Shows a footer with logos and a copyright notice.
 
-### Installation
+## Installation
 
 To run the HTML practice project locally, follow these steps:
 
@@ -62,7 +62,7 @@ To run the HTML practice project locally, follow these steps:
    cd simple-html-web
    ```
 
-### Usage
+## Usage
 
 Open the `index.html` file in a web browser to view the webpage. You can navigate through the sections by scrolling or using the navigation menu. 
  
